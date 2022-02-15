@@ -1,1 +1,2 @@
 test f1
+modified in branch1 after branch2 created
